@@ -1,0 +1,11 @@
+﻿  filecrawler.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+\\Mac\Home\Desktop\sources\repos\filecrawler\filecrawler\filecrawler.cpp(112): warning C4091: 'static ': 변수를 선언하지 않으면 'toxic::tstring' 왼쪽은 무시됩니다.
+\\Mac\Home\Desktop\sources\repos\filecrawler\filecrawler\filecrawler.cpp(216): warning C4091: 'static ': 변수를 선언하지 않으면 'toxic::tfile' 왼쪽은 무시됩니다.
+\\Mac\Home\Desktop\sources\repos\filecrawler\filecrawler\filecrawler.cpp(246): warning C4091: 'static ': 변수를 선언하지 않으면 'toxic::tsystem' 왼쪽은 무시됩니다.
+  코드를 생성하고 있습니다.
+  0 of 268 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  filecrawler.vcxproj -> \\Mac\Home\Desktop\sources\repos\filecrawler\Release\filecrawler.exe
